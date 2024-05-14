@@ -1,0 +1,27 @@
+GenericEntity {
+ ID "613B30AEE0787138"
+ components {
+  MeshObject "{613B30AC309DEFFA}" {
+   Object "{1BE5EB72F0429247}Assets/Structures/Signs/Large/Dst/SignLarge_01_dst_04.xob"
+   Materials {
+    MaterialAssignClass "{613B30AC5F14A01F}" {
+     SourceMaterial "SignLarge_01"
+     AssignedMaterial "{CCEC32CF65CF6CB2}textures/discord_sign.emat"
+    }
+   }
+  }
+ }
+ coords 8999.488 81.436 2403.974
+ {
+  GenericEntity {
+   ID "613B30AEE078713F"
+   components {
+    MeshObject "{613B30AC540D364A}" {
+     Object "{6CEF83FA04E07D37}Assets/Structures/Signs/Large/Dst/SignLarge_01_dst_02.xob"
+    }
+   }
+   coords -1.752 -0.011 -0.092
+   angleY 178.819
+  }
+ }
+}

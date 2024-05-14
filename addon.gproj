@@ -1,0 +1,8 @@
+GameProject {
+ ID "PixelsandPints"
+ GUID "613B30A806E8A60E"
+ TITLE "Pixels&Pints"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
