@@ -85,7 +85,7 @@ class ReportCommand: ScrServerCommand
 		
 		string m_sPlayerName = GetGame().GetPlayerManager().GetPlayerName(playerId);
 		string m_sMessage = "";
-		for (int i = 1, count = argv.Count() - 1; i < count; i++)
+		for (int i = 1, count = argv.Count(); i < count; i++)
 		{
 				m_sMessage += argv[i] + " ";
 		}
